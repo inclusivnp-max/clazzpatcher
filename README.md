@@ -1,5 +1,13 @@
 # clazzpatcher
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-2.1-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin 2.1" />
+  <img src="https://img.shields.io/badge/Target-Android%20DEX%20%26%20JVM%20Class-007ACC?style=for-the-badge" alt="DEX & JVM" />
+  <img src="https://img.shields.io/badge/Dependencies-Zero%20Runtime%20Deps-success?style=for-the-badge" alt="Zero Runtime Dependencies" />
+  <img src="https://img.shields.io/badge/Smali-Baksmali%203.0%20Compatible-orange?style=for-the-badge" alt="Smali" />
+  <img src="https://img.shields.io/badge/Compatibility-Java%208+%20%7C%20Android-green?style=for-the-badge" alt="Compatibility" />
+</p>
+
 Чтение, запись, патчинг и взаимное преобразование Android DEX, smali и JVM `.class` на Kotlin — без сторонних библиотек и без рефлексии в рантайме (только kotlin-stdlib, код совместим с Java 8 и Android).
 
 ## Пакеты
